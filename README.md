@@ -98,7 +98,7 @@ Projects:
 * Multi tentet Rating app
   - Built in: 2024
   - Link: can't provide link because every tenant or brand has his domain which is created dynamically from code and server configuration with dns records
-  - Description: Multi tentet Rating app Built using PHP, Laravel 10, vue3, TailwindCSS and Vuetify `i used building seprate apps backend service and frontend service`
+  - Description: Multi tentet Rating app Built using PHP, Laravel 10, vue3, TailwindCSS and Vuetify `I Built it separately backend and frontend services allows for more modular and scalable development`
 
 * Awraqalkhir
   - Built in: 2018
