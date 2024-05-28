@@ -8,7 +8,7 @@
 
 ## Objective
 
-My objective is to deepen my knowledge of software terms, PHP language, and clean code concepts to effectively build or contribute to framework,
+*To deepen my knowledge of software terms, PHP language, and clean code concepts to build or contribute to frameworks effectively*
 
 ## Background
 
@@ -37,7 +37,7 @@ I am passionate about creating efficient, software solutions and continuously le
   
 #### Projects:
 
-* [Valeopark](https://system.valeopark.com/) (SAS) `Vue3 frontend with TailwindCSS and vuetify`
+* [Valeopark](https://system.valeopark.com/) (SAS) Valeo Service App  `Vue3 frontend with TailwindCSS and vuetify`
 * [Mun](https://lms.muninc.com/) (LMS) `using Laravel backend, Vue3 with Inertiajs and TailwindCSS`
 
 ### TecSee Internetagentur
