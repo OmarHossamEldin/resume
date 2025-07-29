@@ -27,18 +27,29 @@ I am passionate about creating efficient, software solutions and continuously le
 
 ## Experience
 
-### Rezerveit
+### Global Reservation Company ([Hojuzat.com](https://hotel.hojuzat.com/))
 
-[Website](https://rezerveit.com/)
+**Software Engineer**  
+**July 2024 – Present** — *Onsite, Egypt*
 
-**Full Stack Engineer - 2022 to Present**
-
-* **Job Location:** Remote, UAE
-  
 #### Projects:
+* **Hojuzat Booking Platform**  
+  * Booking services for hotels, flights, cruise ships, and tour packages  
+  * Developed and optimized backend using **Laravel 12**, **PHP 8.4**, **PostgreSQL**, and **Redis**  
+  * Containerized services with **Docker** for scalable deployments  
+  * Integrated **Laravel Horizon** and **Reverb** for queue management and real-time updates
 
-* [Valeopark](https://system.valeopark.com/) (SAS) Valeo Service App  `Vue3 frontend with TailwindCSS and vuetify`
-* [Mun](https://lms.muninc.com/) (LMS) `using Laravel backend, Vue3 with Inertiajs and TailwindCSS`
+
+### Rezerveit ([Website](https://rezerveit.com/))
+
+**Full Stack Engineer**  
+**October 2022 – June 2024** — *Remote, UAE*
+
+#### Projects:
+* **Valeopark** – SaaS for valet services  
+  * Built using **Vue 3**, **TailwindCSS**, and **Vuetify**
+* **Mun LMS** – Learning management system  
+  * Developed with **Laravel**, **Vue 3**, **Inertia.js**, and **TailwindCSS**
 
 ### TecSee Internetagentur
 
