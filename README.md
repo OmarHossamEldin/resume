@@ -22,7 +22,7 @@ I am passionate about creating efficient, software solutions and continuously le
 * **Libabraies:** Jquery
 * **Databases:** MySQL/MariaDB, PostgreSQL, SqlServer, SqlLite
 * **Testing:** PHPUnit
-* **Tools:** Ubuntu, PHPStorm, Vscode, Vim, Docker, Git, CLI, AWS
+* **Tools:** Ubuntu, PHPStorm, Vscode, Vim, Docker, Git, CLI, GCP
 * **Other Technologies:** Inertia, TailwindCSS, Bootstrap, Quasar, Vuetify, Draw.io
 
 ## Experience
