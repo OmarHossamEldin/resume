@@ -27,7 +27,7 @@ I am passionate about creating efficient, software solutions and continuously le
 
 ## Experience
 
-### Global Reservation Company ([Hojuzat.com](https://hotel.hojuzat.com/))
+### Global Reservation Company ([Webiste](https://hotel.hojuzat.com/))
 
 **Software Engineer**  
 **July 2024 – Present** — *Onsite, Egypt*
